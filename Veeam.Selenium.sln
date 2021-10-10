@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veeam.Selenium", "Veeam.Selenium\Veeam.Selenium.csproj", "{95FE0B21-6F05-4F05-8CE2-9982779CE0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veeam.SeleniumTests", "Veeam.SeleniumTests\Veeam.SeleniumTests.csproj", "{9ABAB222-39E4-4545-8CA2-15538A324CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FE0B21-6F05-4F05-8CE2-9982779CE0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FE0B21-6F05-4F05-8CE2-9982779CE0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FE0B21-6F05-4F05-8CE2-9982779CE0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FE0B21-6F05-4F05-8CE2-9982779CE0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABAB222-39E4-4545-8CA2-15538A324CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABAB222-39E4-4545-8CA2-15538A324CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABAB222-39E4-4545-8CA2-15538A324CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABAB222-39E4-4545-8CA2-15538A324CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3A89EB-AAD1-489B-8175-4E4FC714BC7A}
+	EndGlobalSection
+EndGlobal

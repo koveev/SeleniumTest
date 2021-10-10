@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Z0O6tXvBxxqvCQ7VE09SlU7ZKCc6vAAdGW6o38WSZsRe151DX+ABQnVq7f55DmcAqb7yCnMSjRHcXQERz67OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandr\\Desktop\\Project\\repos\\Veeam.Selenium\\Veeam.Selenium\\Veeam.Selenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandr\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Alexandr\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\Alexandr\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha05\\selenium.webdriver.4.0.0-alpha05.nupkg.sha512",
+    "C:\\Users\\Alexandr\\.nuget\\packages\\selenium.webdriver.chromedriver\\94.0.4606.6100\\selenium.webdriver.chromedriver.94.0.4606.6100.nupkg.sha512"
+  ],
+  "logs": []
+}
